@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Casais Tp2 Pt2 [ARCHIVOS]\Casais Tp2 Pt2 [ARCHIVOS]\bin\Debug\Casais Tp2 Pt2 [ARCHIVOS].exe.config
+C:\Users\Usuario\source\repos\Casais Tp2 Pt2 [ARCHIVOS]\Casais Tp2 Pt2 [ARCHIVOS]\bin\Debug\Casais Tp2 Pt2 [ARCHIVOS].exe
+C:\Users\Usuario\source\repos\Casais Tp2 Pt2 [ARCHIVOS]\Casais Tp2 Pt2 [ARCHIVOS]\bin\Debug\Casais Tp2 Pt2 [ARCHIVOS].pdb
+C:\Users\Usuario\source\repos\Casais Tp2 Pt2 [ARCHIVOS]\Casais Tp2 Pt2 [ARCHIVOS]\obj\Debug\Casais Tp2 Pt2 [ARCHIVOS].csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Casais Tp2 Pt2 [ARCHIVOS]\Casais Tp2 Pt2 [ARCHIVOS]\obj\Debug\Casais Tp2 Pt2 [ARCHIVOS].csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Casais Tp2 Pt2 [ARCHIVOS]\Casais Tp2 Pt2 [ARCHIVOS]\obj\Debug\Casais Tp2 Pt2 [ARCHIVOS].exe
+C:\Users\Usuario\source\repos\Casais Tp2 Pt2 [ARCHIVOS]\Casais Tp2 Pt2 [ARCHIVOS]\obj\Debug\Casais Tp2 Pt2 [ARCHIVOS].pdb

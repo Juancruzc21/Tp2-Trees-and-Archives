@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\bin\Debug\Casais Tp2 Pt1 [ARBOLES].exe.config
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\bin\Debug\Casais Tp2 Pt1 [ARBOLES].exe
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\bin\Debug\Casais Tp2 Pt1 [ARBOLES].pdb
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\obj\Debug\Casais Tp2 Pt1 [ARBOLES].csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\obj\Debug\Casais_Tp2_Pt1__ARBOLES_.Form1.resources
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\obj\Debug\Casais_Tp2_Pt1__ARBOLES_.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\obj\Debug\Casais Tp2 Pt1 [ARBOLES].csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\obj\Debug\Casais Tp2 Pt1 [ARBOLES].csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\obj\Debug\Casais Tp2 Pt1 [ARBOLES].exe
+C:\Users\Usuario\source\repos\Casais Tp2 Pt1 [ARBOLES]\Casais Tp2 Pt1 [ARBOLES]\obj\Debug\Casais Tp2 Pt1 [ARBOLES].pdb
